@@ -15,4 +15,5 @@ Seq2Seq LSTM with Attention mechanism implemented in Python.
 - Walk-forward validation
 
 ## Author
+
 Hariharan A
